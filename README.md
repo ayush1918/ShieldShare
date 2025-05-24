@@ -60,10 +60,16 @@ cd ShieldShare
 cd backend
 npm install
 # Create .env file with your MongoDB URI
-npm start
+npm start 
 
 cd frontend
 npm install
 npm start
 
+
+
+
+👤 Author
+Ayush
+GitHub: @ayush1918
 
