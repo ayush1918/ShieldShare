@@ -33,21 +33,28 @@
 
 ## 📂 Folder Structure
 
-shieldshare/
+ShieldShare/
 ├── backend/
-│ ├── routes/
 │ ├── controllers/
+│ ├── middleware/
 │ ├── models/
+│ ├── routes/
 │ └── server.js
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── main.jsx
+│ └── src/
+│ ├── components/
+│ ├── pages/
+│ └── main.jsx
 └── README.md
 
 
 ---
+
+
+
+
+
+
 
 ## ⚙️ Installation & Running Locally
 
@@ -56,11 +63,10 @@ shieldshare/
 git clone https://github.com/ayush1918/ShieldShare.git
 cd ShieldShare
 
-
 cd backend
 npm install
 # Create .env file with your MongoDB URI
-npm start 
+npm start
 
 cd frontend
 npm install
@@ -69,7 +75,11 @@ npm start
 
 
 
-👤 Author
-Ayush
-GitHub: @ayush1918
+
+
+
+```bash
+git add README.md
+git commit -m "Add project README"
+git push
 
