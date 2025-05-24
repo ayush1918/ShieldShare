@@ -72,14 +72,3 @@ cd frontend
 npm install
 npm start
 
-
-
-
-
-
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-
